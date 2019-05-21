@@ -1,7 +1,14 @@
+/*! \file
+ *
+ * \brief Lühikirjeldus:
+ * Fail testmeetodite jaoks
+ * \author Jaan Erik Pihel
+ * \date 2019
+ *
+ * See fail sisaldab meetodit testi tegemiseks.
+ */
 #ifndef TEST_H_
 #define TEST_H_
-
-/*! \file Fail testmeetodite jaoks */
 
 /**
  * Meetod, mis loob juhusliku ruutmaatriksi A, loob transponeeritud maatriksi T. Korrutab A ja T ning liidab need kokku.

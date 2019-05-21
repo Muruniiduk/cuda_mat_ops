@@ -1,4 +1,12 @@
-/**! @file Fail maatriksoperatsioonide jaoks */
+/*! \file
+ *
+ * \brief Lühikirjeldus:
+ * Fail maatriksoperatsioonide jaoks
+ * \author Jaan Erik Pihel
+ * \date 2019
+ *
+ * See fail sisaldab meetodeid maatriksoperatsiooonide jaoks.
+ */
 #ifndef MATMUL_H_
 #define MATMUL_H_
 /*!

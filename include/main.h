@@ -1,6 +1,14 @@
+/*! \file
+ *
+ * \brief Lühikirjeldus:
+ * Fail testide jooksutamiseks
+ * \author Jaan Erik Pihel
+ * \date 2019
+ *
+ * See fail sisaldab meetodeid testide tegemiseks ja jooksutamiseks.
+ */
 #ifndef MAIN_H_
 #define MAIN_H_
-/*! \file Fail testimiseks */
 
 /**
  * Meetod erinevate suurustega juhuslike ruutmaatriksite peal operatsioonide tegemiseks.
